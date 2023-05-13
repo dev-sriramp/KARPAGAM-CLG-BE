@@ -58,7 +58,7 @@
   },
   "engine":{
   "node":">=16.0.0"
-  }
+  },
   "jest": {
     "moduleFileExtensions": [
       "js",
